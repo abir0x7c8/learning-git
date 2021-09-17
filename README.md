@@ -1,3 +1,7 @@
 # Repo For Learning Git and Github
 
-### Abir Sarkar
+Learning Git and Git hub
+
+## Python
+
+Git and Python Killer Combination
